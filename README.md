@@ -1,21 +1,21 @@
-<h1 align="center">Hi there! I'm Hoàng Anh 👋</h1>
-<!-- <h3 align="center">Web Developer</h3> -->
+<h1 align="start">Hi there! I'm Hoàng Anh 👋</h1>
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <br/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <br/>
+  <img src="https://img.shields.io/badge/php-%23646CFF.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-<p align="center">
+<p align="start">
   <em>A proactive learner and adaptable developer with a strong programming mindset. I take pride in being a cheerful, supportive team player with a high sense of responsibility in every project I tackle.</em>
 </p>
 
@@ -23,9 +23,8 @@
 
 ### About Me
 
-- Currently working at a product company, developing an **HR Management Software**.
+- Currently working at a product company, developing an **HRM Software**.
 - Also building a **self-ordering** platform using a Monorepo architecture.
-- Continuously deep-diving into **Software Architecture (OOP, SOLID)**, **API Design**, and **Database Indexing**.
 - Experienced in building customer-facing web applications.
 
 ### Let's Connect
