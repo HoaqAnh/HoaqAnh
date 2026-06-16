@@ -23,9 +23,9 @@
 
 ### About Me
 
-- Currently working at a product company, developing an **HRM Software**.
-- Also building a **self-ordering** platform using a Monorepo architecture.
-- Experienced in building customer-facing web applications.
+- I am a **Web Developer** with a strong passion for building impactful SaaS platforms and scalable web applications.
+- Currently, I am working at a product company, developing an advanced **Human Resource Management (HRM)** software.
+- I am also architecting a **Self-Ordering System** using a **Monorepo architecture**. This project allows me to deeply explore SaaS operations, system design, and high-performance web engineering.
 
 ### Let's Connect
 
